@@ -4,7 +4,11 @@
 # Advanced Liquidity Bonding Technology (ALBT)
 
 ![Project Logo](https://example.com/logo.png)
+Here is the diagram illustrating the structure and features of the ALBT (Advanced Liquidity Bonding Technology) system:
 
+![ALBT System Overview](https://imgr.whimsical.com/thumbnails/CLPvk6LqkBDJkADXEDtmSY/QTFN2Ur9CfYx5kq1B2rAXb)
+
+You can view or edit this diagram in Whimsical by following this link: [ALBT System Overview](https://whimsical.com/albt-system-overview-CLPvk6LqkBDJkADXEDtmSY?ref=chatgpt).
 ## Table of Contents
 
 - [Introduction](#introduction)
